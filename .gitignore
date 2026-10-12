@@ -7,3 +7,6 @@ data/
 # Block Azurite local database system logs
 __azurite_db_*
 _blobstorage_/
+
+# Block active pipeline diagnostic logs
+*.log
