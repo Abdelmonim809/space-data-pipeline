@@ -1,0 +1,1 @@
+{"status": "success", "market": "crypto_spot", "ingested_at": "2026-10-12 09:04:00", "transactions": [{"asset": "BTC", "price_usd": 64250.5, "volume_24h": 28450120}, {"asset": "ETH", "price_usd": 3450.25, "volume_24h": 14200780}, {"asset": "SOL", "price_usd": 145.8, "volume_24h": 8900450}]}
