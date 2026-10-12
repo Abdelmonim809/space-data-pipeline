@@ -1,1 +1,9 @@
+# Block local data warehouse output files
 data/
+
+# Block private environment connection strings
+.env
+
+# Block Azurite local database system logs
+__azurite_db_*
+_blobstorage_/
